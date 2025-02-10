@@ -133,8 +133,5 @@ Bot: I do not have access to real-time information, such as weather.  You can ch
 
 Contributions are welcome\! Please open an issue or submit a pull request for any bug fixes, feature requests, or improvements.
 
-</div>
-```
 
-**
 
