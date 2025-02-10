@@ -4,6 +4,12 @@
 
 This is a simple chatbot application built with Python using Tkinter for the graphical user interface (GUI) and the OpenAI API for natural language conversation. It allows users to interact with a chatbot directly through a desktop interface.
 
+[![PyPI Version](https://img.shields.io/pypi/v/chatterbot)](https://pypi.org/project/chatterbot/)
+[![Python Version](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/)
+[![Django Version](https://img.shields.io/badge/django-2.0-green)](https://www.djangoproject.com/)
+[![Maintainability](https://img.shields.io/badge/maintainability-high-brightgreen)](https://www.sonarqube.org/)
+
+
 ## Features
 
 *   **GUI-based Chatbot:** Built using Tkinter for an interactive and user-friendly interface.
