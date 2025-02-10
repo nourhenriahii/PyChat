@@ -19,4 +19,4 @@ Before running the application, ensure you have the following:
 To install the required dependencies, run the following command:
 
 ```bash
-- pip install openai
+ pip install openai
