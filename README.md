@@ -21,11 +21,6 @@ To install the required dependencies, run the following command:
 ```bash
  pip install openai
 
-
-
-
-# Running Python Code with OpenAI and Tkinter
-
 Here are the instructions to help you get started with the Python chatbot using OpenAI and Tkinter. You can open and run this code using a Python environment on your local machine, especially if you've installed the 'openai' and 'tkinter' libraries.
 
 Follow these steps:
